@@ -1,0 +1,4 @@
+Flashen mit SP_Flash_Tool_v3.1308.0.125
+
+
+UBOOT  -->  lk.bin  bei Android 4.2 ROM mitflashen!
